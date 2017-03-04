@@ -1,7 +1,7 @@
 platform:
 ---------
 
-any
-
+- Windows
+- Linux
 
 
